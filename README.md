@@ -6,7 +6,7 @@
 
 **Contributors:**
 
-Ian Cooper
+Ian Cooper: Founder, architect, designer, and engineer
 
-Dustin Kattner 
+Dustin Kattner: Engineer
 
