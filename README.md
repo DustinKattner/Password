@@ -1,16 +1,17 @@
 # Password
 
-Introducing Password. 
-An app that re-envisioned saving and accessing logins. Using powerful CoreML to classify passwords, notify them if it has been saved by other users. Generating industry standard passwords, having custom length and seed. Easy to use, easy to access across all devices
+Introducing **Password**. 
+An app that re-envisioned saving and accessing logins. Using powerful CoreML to classify passwords, notify them if it has been saved by other users. Generating industry standard passwords, having custom length and seed. Easy to use, easy to access across all devices using Cloudkit.
 
 **Features**
 
-- Be awesome
-- Make things faster
+- CoreML to classify passwords
+- Synchronization across all devices
+- Generating industry standard passwords
 
 **Installation**
 
-Stay tuned...
+Stay tune...
 
 **Sources**
 
@@ -30,5 +31,5 @@ Dustin Kattner: Engineer
 
 **License**
 
-The project is licensed under the BSD license.
-
+The project is licensed under the MIT license.
+- Encryption: github.com/krzyzanowskim/CryptoSwift/blob/master/LICENSE
