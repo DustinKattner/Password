@@ -13,7 +13,7 @@ An app that re-envisioned saving and accessing logins. Using powerful CoreML to 
 **Installation**
 ---------------
 
-Stay tune...
+Provided Handbook to fully understand the underlying infrastructure.
 
 **Sources**
 -----------
